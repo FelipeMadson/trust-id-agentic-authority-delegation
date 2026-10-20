@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  trust-id-node:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rnp-trust-id-daemon
+    ports:
+      - "8084:8084"
+    environment:
+      - PORT=8084
+      - LOG_LEVEL=info
+      - DATASPACE_FEDERATION=br.rnp.scientific.mesh
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:8084/healthz"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
