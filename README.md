@@ -8,6 +8,10 @@
 
 > **Reference Implementation & Research Prototype engineered for RNP DPDI Chamada PCI 2026 — Projeto 4: TRUST-ID (*Modelos de Identidade, Confiança e Delegação de Autoridade para Humanos e Agentes Inteligentes*)**.
 
+## 📄 Academic Research Paper & CNPq/RNP Application Dossier
+- 📑 **Scientific Paper (SBC/RNP Standard)**: [Read the full research paper (PT-BR)](docs/paper/README.md)
+- 📋 **JEMS Candidate Dossier & 12-Month Work Plan**: [View the full submission dossier & interview guide](docs/paper/DOSSIE_CANDIDATURA_RNP_2026.md)
+
 ---
 
 ## 1. Executive Summary

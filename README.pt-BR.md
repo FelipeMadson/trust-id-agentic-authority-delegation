@@ -7,6 +7,10 @@
 
 > **Implementação de Referência e Protótipo de Pesquisa desenvolvido para a Chamada PCI/CNPq da RNP 2026 — Projeto 4: TRUST-ID (*Modelos de Identidade, Confiança e Delegação de Autoridade para Humanos e Agentes Inteligentes*)**.
 
+## 📄 Artigo Científico e Dossiê de Candidatura CNPq/RNP
+- 📑 **Artigo Científico Completo (Normas SBC/RNP)**: [Ler artigo de pesquisa completo](docs/paper/README.md)
+- 📋 **Dossiê de Candidatura JEMS e Plano de Trabalho de 12 Meses**: [Ver dossiê de submissão e roteiro da entrevista](docs/paper/DOSSIE_CANDIDATURA_RNP_2026.md)
+
 ---
 
 ## 1. Sumário Executivo
